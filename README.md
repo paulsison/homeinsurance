@@ -8,6 +8,7 @@ Some of them are as follows:
 1) Java JDK 9
 2) Apache Web Server which you may have to install and configure with your Eclipse.
 3) Oracle JDBC to access the SQL Database
+4) JUnit4 and Hamcrest, inspite of the Maven/pom.xml entry. At the least it will have been downloaded by Maven automatically.
 
 On the backend, you will need to have an Oracle Database. 
 1) There is a database creation script (*.sql) inside the Other_Files folder of this project.
