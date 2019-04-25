@@ -1,7 +1,7 @@
 # homeinsurance
 A Java Website tested with Selenium Automation
 
-This repository contains a Maven project that you can download and run on your Eclipse IDE. The use of Maven pom.xml makes the settings more portable to different computers. 
+This repository contains a Maven project that you can download and run on your Eclipse IDE. The use of Maven pom.xml makes for the easier management of test dependencies.
 However, some recommended build path settings will be called out by Eclipse for which you will have to allow the changes to take place.
 
 Some of them are as follows:
