@@ -4,7 +4,7 @@ A Java Website tested with Selenium Automation
 This repository contains a Maven project that you can download and run on your Eclipse IDE. The use of Maven pom.xml makes for the easier management of test dependencies.
 However, some recommended build path settings will be called out by Eclipse for which you will have to allow the changes to take place.
 
-Some of them are as follows:
+Some build path additions are as follows:
 1) Java JDK 9
 2) Apache Web Server which you may have to install and configure with your Eclipse.
 3) Oracle JDBC to access the SQL Database
